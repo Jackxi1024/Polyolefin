@@ -1,7 +1,6 @@
 # Polyolefin
-Simulation and optimization of olefin polymerization
 Simulation and Optimization of Olefin Polymerization
-Developed by the Chemical Engineering and Olefin Polymerization Research Group of Zhejiang University（ http://www.cregroup.zju.edu.cn/ )
+Developed by Group of Chemical Engineering and Olefin Polymerization Zhejiang University（ http://www.cregroup.zju.edu.cn/ )
 Instructor: Professor Liao Zuwei
 Contact email: liaozw@zju.edu.cn
 
